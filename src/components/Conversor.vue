@@ -1,0 +1,21 @@
+<template>
+    <div class="conversor">
+        <h2>
+            {{moedaA}} Para {{moedaB}}
+        </h2>
+
+
+    </div>
+    
+</template>
+
+<script>
+export default {
+    
+}
+</script>
+
+
+<style scoped>
+
+</style>
