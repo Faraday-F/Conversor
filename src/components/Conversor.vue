@@ -1,4 +1,5 @@
 <template>
+
     <div class="conversor">
         <h2>
             {{moedaA}} Para {{moedaB}}
@@ -9,10 +10,15 @@
     
 </template>
 
+
 <script>
 export default {
+    name: "conversor",
+    props: ["moedaA","moedaB"]
+
     
-}
+};
+
 </script>
 
 
