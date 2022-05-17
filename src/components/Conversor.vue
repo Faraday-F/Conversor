@@ -4,6 +4,8 @@
         <h2>
             {{moedaA}} Para {{moedaB}}
         </h2>
+        <input type="text">
+        <button>Converter</button>
 
 
     </div>
